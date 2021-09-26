@@ -9,9 +9,9 @@
 
 **This project has been a great journey for me, and I'm very thankful for all the support of the community over the years.**
 
-FIFA 21's companion app for FIFA Ultimate Team, the FUT 21 Web App, is a website that let's you trade and manage your team on the go.
+FIFA 22's companion app for FIFA Ultimate Team, the FUT 22 Web App, is a website that let's you trade and manage your team on the go.
 
-This TamperMonkey script is meant to enhance the FUT 21 Web App experience. You can install the script following the instructions below. Afterwards you will get a settings button on the bottom right of the web app, where you can enable every feature by itself. The script provides a certain degree of customization possibilities.
+This TamperMonkey script is meant to enhance the FUT 22 Web App experience. You can install the script following the instructions below. Afterwards you will get a settings button on the bottom right of the web app, where you can enable every feature by itself. The script provides a certain degree of customization possibilities.
 
 :warning: Using this script is at your own risk. EA might (temp-)ban you for altering parts of their Web App.
 

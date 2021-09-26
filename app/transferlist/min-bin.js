@@ -100,7 +100,7 @@ class MinBin extends BaseScript {
 
           GM_notification({
             text: notificationText,
-            title: 'FUT 21 Web App',
+            title: 'FUT 22 Web App',
             timeout: 5000,
             onclick: () => window.focus(),
           });
